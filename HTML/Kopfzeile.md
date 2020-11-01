@@ -44,4 +44,4 @@
 
 > Deine Website sollte jetzt so aussehen
 
-![Aktuelle Website](/Bilder/Kopfzeile.png)
+![Aktuelle Website](Bilder/Kopfzeile.png)

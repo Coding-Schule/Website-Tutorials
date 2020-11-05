@@ -1,6 +1,6 @@
 # HTML Kopfzeile
 
-#### Eine HTML Datei wird in 99,9% immer wie folg erstellt
+#### Eine HTML Datei wird in 99,9% immer wie folgt erstellt
 
 ```html
 <!DOCTYPE html>

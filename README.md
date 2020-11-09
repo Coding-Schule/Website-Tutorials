@@ -1,3 +1,4 @@
 # Website-Tutorials
 
-<a href="Kapitel_1.html">Kopfzeil</a>
+Zur <a href="HTML" >HTML</a> Seite.
+Zur <a href="PHP">PHP</a> Seite.
